@@ -1,5 +1,5 @@
 class Backer
-attr_reader :backers, :name
+attr_reader :name, :backed_projects
 
 
 
